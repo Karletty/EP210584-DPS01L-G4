@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ep210584-g4",
+    "slug": "ep210584-g4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ep210584-g4"
+}

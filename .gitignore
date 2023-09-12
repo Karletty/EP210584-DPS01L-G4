@@ -1,0 +1,71 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+cars/node_modules/
+
+# Expo
+cars/.expo/
+cars/dist/
+cars/web-build/
+
+# Native
+cars/*.orig.*
+cars/*.jks
+cars/*.p8
+cars/*.p12
+cars/*.key
+cars/*.mobileprovision
+
+# Metro
+cars/.metro-health-check*
+
+# debug
+cars/npm-debug.*
+cars/yarn-debug.*
+cars/yarn-error.*
+
+# macOS
+cars/.DS_Store
+cars/*.pem
+
+# local env files
+cars/.env*.local
+
+# typescript
+cars/*.tsbuildinfo
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+ep210584-g4/node_modules/
+
+# Expo
+ep210584-g4/.expo/
+ep210584-g4/dist/
+ep210584-g4/web-build/
+
+# Native
+ep210584-g4/*.orig.*
+ep210584-g4/*.jks
+ep210584-g4/*.p8
+ep210584-g4/*.p12
+ep210584-g4/*.key
+ep210584-g4/*.mobileprovision
+
+# Metro
+ep210584-g4/.metro-health-check*
+
+# debug
+ep210584-g4/npm-debug.*
+ep210584-g4/yarn-debug.*
+ep210584-g4/yarn-error.*
+
+# macOS
+ep210584-g4/.DS_Store
+ep210584-g4/*.pem
+
+# local env files
+ep210584-g4/.env*.local
+
+# typescript
+ep210584-g4/*.tsbuildinfo
